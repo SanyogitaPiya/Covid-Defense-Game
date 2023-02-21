@@ -6,7 +6,7 @@ to defend against waves of COVID invaders that become more intense as the rounds
 mechanics. There will also be backend features that deal with user authentication and facilitate leaderboards. The creation of this project 
 will rely on the use of Unity and Firebase for the backend.
 
-# Users have access to user authentication. 
+### Users have access to user authentication. 
 
 # Users have access to the view menu. 
 
