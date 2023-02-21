@@ -8,17 +8,17 @@ will rely on the use of Unity and Firebase for the backend.
 
 ### Users have access to user authentication. 
 
-# Users have access to the view menu. 
+### Users have access to the view menu. 
 
-# Users should be able to spawn into a default map.  
+### Users should be able to spawn into a default map.  
 
-# Users have access to defense structures. 
+### Users have access to defense structures. 
 
-# Users must defend against COVID enemy units. 
+### Users must defend against COVID enemy units. 
 
-# Users should be able to progress to the next level upon completion of the prior level. 
+### Users should be able to progress to the next level upon completion of the prior level. 
 
-# Users have the liberty to place the tower as their wish at the start of the game. 
+### Users have the liberty to place the tower as their wish at the start of the game. 
  
-# A leaderboard is displayed at the end of the game. 
+### A leaderboard is displayed at the end of the game. 
 
