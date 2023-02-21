@@ -19,17 +19,18 @@ will rely on the use of Unity and Firebase for the backend.
 ###![6](https://user-images.githubusercontent.com/85206339/220464964-22fe9b28-6672-4dfd-b671-05d37085eaf1.png)
  Users have access to defense structures. 
 
-### U![7](https://user-images.githubusercontent.com/85206339/220464973-2ab6c500-4dc6-4cec-a661-8bce5814a8ec.png)
-sers must defend against COVID enemy units. 
+### Users must defend against COVID enemy units. 
+![7](https://user-images.githubusercontent.com/85206339/220464973-2ab6c500-4dc6-4cec-a661-8bce5814a8ec.png)
 
 ### Users should be able to progress to the next level upon completion of the prior level. 
 ![9](https://user-images.githubusercontent.com/85206339/220464994-d8f2f994-78c7-4f60-aa7b-81ed3674b1d0.png)
 
 ### Users have the liberty to place the tower as their wish at the start of the game. 
  ![10](https://user-images.githubusercontent.com/85206339/220465154-b381a594-914a-4d84-88d0-2a746a09b4b7.png)
-![11](https://user-images.githubusercontent.com/85206339/220465166-35d8f064-285![12](https://user-images.githubusercontent.com/85206339/220465220-615597c5-d5a3-4f9b-94e4-2a5d86b17eba.png)
-d-4c72-956d-f3ab04653f2f.png)
-![Uploading 12.png…]()
+ 
+![11](https://user-images.githubusercontent.com/85206339/220465493-5b50a534-7c38-4744-9727-1941f6221630.png)
+
+![12](https://user-images.githubusercontent.com/85206339/220465523-260febd8-01f3-4fb5-9175-a9cf43c5f04f.png)
 
 ![8](https://user-images.githubusercontent.com/85206339/220465240-57417a59-c816-46fb-bac3-75ec7a414f75.png)
 
